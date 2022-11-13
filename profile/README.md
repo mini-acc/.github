@@ -1,0 +1,3 @@
+# Mini Acc
+
+This is the public GitHub organizations readme. Coming soon...
